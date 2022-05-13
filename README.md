@@ -15,3 +15,5 @@ Cada registro del formulario se guarda en la base de datos como Cliente.
 En el quinto creamos una lista de todos los usuarios registrados y una paginacion para que se vean 5 usuarios por pagina.
 
 En el sexto volvimos a trabajar con el formulario del punto cuatro, con la diferencia que trabajamos con los campos Paises y Provincias, para que mediante AJAX nos muestre sugerencias a medida que escribamos dentro de el.
+
+Nombre bd: tp2
