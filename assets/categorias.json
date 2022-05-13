@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nombre": "Indumentaria"
+    },
+    {
+        "id": 2,
+        "nombre": "Accesorios"
+    },
+    {
+        "id": 3,
+        "nombre": "Cuidado del pelo"
+    }
+]

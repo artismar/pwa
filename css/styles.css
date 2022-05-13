@@ -1,0 +1,73 @@
+#menu{
+   background-color: rgb(255, 61, 61);
+    
+}
+#marca {
+    
+    text-decoration-color: red;
+    font-weight: 200;
+    font-family: fantasy;
+    font-size: 16px;
+    text-align: center;
+    
+}
+
+#pie {
+    background-color: rgb(255, 61, 61);
+}
+
+
+a:link{
+    color:rgb(238, 121, 121);
+    text-decoration: none;
+    font-size: larger;
+}
+a:active{
+    color:red;
+}
+
+a:visited {
+    color: rgb(240, 108, 130);
+}
+a:focus {
+    color: rgb(255, 0, 43);
+}
+#nav-tabContent{
+    text-align: center;
+    
+}
+.msjErr{
+    color: red;
+}
+
+#nav-tabContent img:hover{
+    border: solid 2px #e66;
+    cursor: pointer;
+}
+
+#suggestions {
+    box-shadow: 2px 2px 8px 0 rgba(0,0,0,.2);
+    height: auto;
+    position: absolute;
+    top: 45px;
+    z-index: 9999;
+    width: 206px;
+}
+
+#suggestions .suggest-element {
+    background-color: #EEEEEE;
+    border-top: 1px solid #d6d4d4;
+    cursor: pointer;
+    padding: 8px;
+    width: 100%;
+    float: left;
+}
+
+#suggestions2 .suggest-element {
+    background-color: #EEEEEE;
+    border-top: 1px solid #d6d4d4;
+    cursor: pointer;
+    padding: 8px;
+    width: 100%;
+    float: left;
+}

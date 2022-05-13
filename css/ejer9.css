@@ -1,0 +1,17 @@
+/* md */
+@media (max-width: 991px){
+    #header{
+        background-color: aqua; 
+    }
+
+    #col3{
+        background-color: #5f5 !important;
+    }
+}
+
+/* sm */
+@media (max-width: 766px){
+    #header{
+        background-color: burlywood; 
+    }
+}

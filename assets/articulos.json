@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "nombre": "Zapatos"
+    },
+    {
+        "id": 2,
+        "idCategoria": 1,
+        "nombre": "Gorros"
+    },
+    {
+        "id": 3,
+        "idCategoria": 1,
+        "nombre": "Remeras"
+    },
+    {
+        "id": 4,
+        "idCategoria": 1,
+        "nombre": "Disfraces"
+    },
+    {
+        "id": 5,
+        "idCategoria": 2,
+        "nombre": "Anteojos"
+    },
+    {
+        "id": 6,
+        "idCategoria": 2,
+        "nombre": "Collares"
+    },
+    {
+        "id": 7,
+        "idCategoria": 3,
+        "nombre": "Shampoo"
+    },
+    {
+        "id": 8,
+        "idCategoria": 3,
+        "nombre": "Peines"
+    }
+]
